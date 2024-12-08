@@ -29,7 +29,7 @@ class DescriptionView extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const Text(
-                  'Descripción del Proyecto',
+                  'Descripción del Proyecto wiliam ',
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 24,
